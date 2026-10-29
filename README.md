@@ -4,9 +4,9 @@ A plain HTML and CSS portfolio packaged with Nginx and checked, built, and publi
 
 ## Before publishing
 
-1. Replace `YOUR NAME` and `YOUR-ROLL-NUMBER` in `index.html`.
+1. Confirm your name and roll number in `index.html`.
 2. Keep exactly one extra section based on the final roll-number digit:
-   - `0-3`: Skills (already included)
+   - `0-3`: Skills (included for roll number 013)
    - `4-6`: Labs, with Git, GitHub, Docker, and Actions plus one line each
    - `7-9`: Contact, with your email address and GitHub profile link
 3. Create public repository `devops-a2-YOUR-ROLL-NUMBER` and push this project.

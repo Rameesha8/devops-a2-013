@@ -20,7 +20,7 @@ jobs:
           test -f index.html
           test -f style.css
           grep -q '<title>' index.html
-          grep -q 'Roll number:' index.html
+          grep -q '013' index.html
           grep -q 'DevOps for Cloud Computing' index.html
 
       - name: Log in to Docker Hub
